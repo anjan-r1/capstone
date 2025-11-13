@@ -1,0 +1,8 @@
+streamlit==1.37.1
+pandas==2.2.2
+numpy==1.26.4
+beautifulsoup4==4.12.3
+selenium==4.25.0
+webdriver-manager==4.0.2
+openai==1.51.0
+python-dotenv==1.0.1
